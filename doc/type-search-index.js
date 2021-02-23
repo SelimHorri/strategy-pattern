@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pack","l":"Applet"},{"p":"pack","l":"FR"},{"p":"pack","l":"Html"},{"p":"pack","l":"Immatriculation"},{"p":"pack","l":"LUX"},{"p":"pack","l":"Main"},{"p":"pack","l":"Pays"},{"p":"pack","l":"TN"},{"p":"pack","l":"USA"}]
