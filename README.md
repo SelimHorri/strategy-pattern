@@ -1,3 +1,4 @@
+
 # ==>> Strategy behaviour pattern impl <<==
 #### Written in Java <3 <3
 
